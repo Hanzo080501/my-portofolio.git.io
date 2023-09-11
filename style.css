@@ -170,6 +170,8 @@ h4 {
 }
 
 .about-text h5 {
+  margin-left: -3.1rem;
+  gap: 1rem;
   color: #fff;
   letter-spacing: 0.2rem;
   font-size: 1.6rem;
